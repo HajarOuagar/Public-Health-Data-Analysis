@@ -1,5 +1,4 @@
-
-# Indian Paper Curreny Classification :india: 
+# Public Health Data Analysis :UK: 
 
 ## Table of Content
   * [Overview](#overview)
@@ -12,7 +11,7 @@ This project aims to uncover correlations between variables and pinpoint influen
 Through rigorous exploration and statistical examination, the study seeks to shed light on key determinants that play a crucial role in understanding and assessing the risk factors associated with elevated cholesterol levels.
 
 ## Motivation
-What could be a perfect way to utilize unfortunate lockdown period? Like most of you, I spend my time in cooking, Netflix, coding and reading some latest research papers on weekends. The idea of classifying indian currency struck to me when I was browsing through some research papers. 
+What could be a perfect way to use the course completion period? Like most of you, I spend my time in Job Hunting, coding and reading some latest research papers on weekends. The idea struck to me when I was browsing through some research papers on High cholesterol. 
 
 ## Technical Aspect
 This project is divided into two part:
